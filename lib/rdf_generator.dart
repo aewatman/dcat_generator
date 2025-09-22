@@ -21,7 +21,6 @@ String generateRdfFile({
   required String license,
   required String size,
 }) {
-  // Example URIs for publisher, language, frequency, license, etc.
   final publisherURI =
       "https://datos.madrid.es/organization/ayuntamiento-madrid";
   final catalogURI = "https://datos.madrid.es/catalog";
